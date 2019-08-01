@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/2021024/11036250-a835-42ed-be29-2c3b37efab79/f15c0637-5dd3-49b2-b2ef-943b05b164db/_apis/work/boardbadge/e7b38c9b-e328-4e18-bc2a-76a61d8bfc80)](https://dev.azure.com/2021024/11036250-a835-42ed-be29-2c3b37efab79/_boards/board/t/f15c0637-5dd3-49b2-b2ef-943b05b164db/Microsoft.RequirementCategory)
 # UEE_BOT
 Star Citizen : UEE Discord Bot BOT
 
